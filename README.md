@@ -1,4 +1,4 @@
-# Hilbert-TDoA
+# Hilbert Time Difference of Arrival
 
 Using Hilbert transform thresholding to find TDoA.
 
